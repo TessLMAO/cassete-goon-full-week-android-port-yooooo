@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goon.png">
+<SubTexture name="down0000" x="2474" y="2237" width="571" height="945" frameX="0" frameY="-12" frameWidth="571" frameHeight="957" />
+<SubTexture name="down0001" x="1912" y="2237" width="562" height="954" frameX="-3" frameY="-3" frameWidth="571" frameHeight="957" />
+<SubTexture name="down0002" x="2798" y="1064" width="563" height="956" frameX="-3" frameY="-1" frameWidth="571" frameHeight="957" />
+<SubTexture name="idle0000" x="1276" y="2237" width="636" height="1003" frameX="-22" frameY="-15" frameWidth="665" frameHeight="1022" />
+<SubTexture name="idle0001" x="640" y="2237" width="636" height="1017" frameX="-19" frameY="-4" frameWidth="665" frameHeight="1022" />
+<SubTexture name="idle0002" x="0" y="2237" width="640" height="1020" frameX="-17" frameY="-1" frameWidth="665" frameHeight="1022" />
+<SubTexture name="left0000" x="2798" y="0" width="563" height="1064" frameX="0" frameY="-5" frameWidth="578" frameHeight="1070" />
+<SubTexture name="left0001" x="1818" y="1125" width="561" height="1068" frameX="-15" frameY="-1" frameWidth="578" frameHeight="1070" />
+<SubTexture name="left0002" x="1259" y="1125" width="559" height="1070" frameX="-19" frameY="0" frameWidth="578" frameHeight="1070" />
+<SubTexture name="right0000" x="624" y="0" width="755" height="1115" frameX="-4" frameY="0" frameWidth="759" frameHeight="1115" />
+<SubTexture name="right0001" x="1379" y="0" width="715" height="1115" frameX="-1" frameY="0" frameWidth="759" frameHeight="1115" />
+<SubTexture name="right0002" x="2094" y="0" width="704" height="1115" frameX="0" frameY="0" frameWidth="759" frameHeight="1115" />
+<SubTexture name="up0000" x="0" y="0" width="624" height="1125" frameX="-5" frameY="0" frameWidth="630" frameHeight="1125" />
+<SubTexture name="up0001" x="0" y="1125" width="630" height="1112" frameX="0" frameY="-13" frameWidth="630" frameHeight="1125" />
+<SubTexture name="up0002" x="630" y="1125" width="629" height="1110" frameX="0" frameY="-15" frameWidth="630" frameHeight="1125" />
+</TextureAtlas>
